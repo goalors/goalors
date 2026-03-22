@@ -1,7 +1,5 @@
 ## Hi there 👋
-## Hi there 👋
-
-# 💫 About Me:
+## 💫 About Me:
 🌌 Lost in code, cosmos, and quiet mysteries of life.<br>
 🥋 Black belt in Taekwondo — kicking through life, but she’s the reason I pause and smile.<br>
 🎓 Bachelor-level knowledge in Computer Science, Biology & Biomedical Sciences.<br>
